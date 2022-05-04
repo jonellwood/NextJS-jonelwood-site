@@ -29,14 +29,12 @@ export default function Projects(){
           </a>
 
           <a
-            href="https://www.starwars.com/"
+            href="https://www.wynettedegroot.com/"
             className={styles.card}
           >
-            <h2>Star Wars &rarr;</h2>
+            <h2>Salary Calculator</h2>
             <p>
-             A long time ago in a galaxy far, far away... 
-             <br></br>
-             🚀 👾
+             Converting an Excel spreadsheet into a web app was an excellent learning exercise. In this app we select both a Pay Grade and a Pay Step for two salary calculations and can see each rate and the differences between the two. I learned a great deal about using switch statements and using <code>&&</code> for matching two cases at once.
             </p>
           </a>
         </div>
