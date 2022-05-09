@@ -42,7 +42,7 @@ export default function Home() {
             <p>Discover and marvel at my projects (dont hold your breath)</p>
           </a>
 
-          <a
+          {/* <a
             href="https://www.starwars.com/"
             className={styles.card}
           >
@@ -52,7 +52,7 @@ export default function Home() {
              <br></br>
              🚀 👾
             </p>
-          </a>
+          </a> */}
         </div>
       </main>
 
